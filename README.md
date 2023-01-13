@@ -63,8 +63,3 @@ Fill the folder music with songs. Fill the example list with the song names.
 ![fig_sea](https://github.com/jsalbert/Music-Genre-Classification-with-Deep-Learning/blob/master/figs/seaofdreams.png?raw=true) 
 ![Results](https://github.com/jsalbert/Music-Genre-Classification-with-Deep-Learning/blob/master/figs/output.png?raw=true)
 
-### Sky Full of Stars - Coldplay
-[![Sky Full of Stars- Coldplay](https://github.com/jsalbert/Music-Genre-Classification-with-Deep-Learning/blob/master/figs/sky.png?raw=true)](https://www.youtube.com/watch?v=zp7NtW_hKJI) 
-![fig_sky](https://github.com/jsalbert/Music-Genre-Classification-with-Deep-Learning/blob/master/figs/skyfullofstars.png?raw=true) 
-
-
